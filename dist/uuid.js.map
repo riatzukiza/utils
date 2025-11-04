@@ -1,0 +1,1 @@
+{"version":3,"file":"uuid.js","sourceRoot":"","sources":["../src/uuid.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,IAAI,cAAc,EAAE,MAAM,aAAa,CAAC;AAE3D,MAAM,UAAU,UAAU;IACxB,OAAO,UAAU,CAAC,MAAM,EAAE,UAAU,EAAE,EAAE,IAAI,cAAc,EAAE,CAAC;AAC/D,CAAC"}
